@@ -2,6 +2,8 @@
 
 ### The Italian Version of Claude Code — BUT ANGRY, LOUD, AND PERMANENTLY CAPSLOCKED
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_2873is2873is2873 (1)" src="https://github.com/user-attachments/assets/9ca14492-e21e-49a9-8344-8ea0b99fed8d" />
+
 **Claudio Codice** is Claude Code's unhinged Italian cousin who screams at you in piazza while writing flawless production code. He doesn't want to be here. He doesn't like you. But PORCODDIO, he will help you anyway.
 
 ---
